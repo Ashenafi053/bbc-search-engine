@@ -1,0 +1,36 @@
+[
+  {"query": "stock market shares fall", "category": "business"},
+  {"query": "oil prices economy growth", "category": "business"},
+  {"query": "company profits quarterly results", "category": "business"},
+  {"query": "bank interest rates inflation", "category": "business"},
+  {"query": "takeover bid merger shareholders", "category": "business"},
+  {"query": "unemployment jobs economy", "category": "business"},
+
+  {"query": "film box office oscar", "category": "entertainment"},
+  {"query": "album music chart singer", "category": "entertainment"},
+  {"query": "actor award ceremony nominated", "category": "entertainment"},
+  {"query": "television series drama", "category": "entertainment"},
+  {"query": "celebrity star wedding", "category": "entertainment"},
+  {"query": "bafta film awards winners", "category": "entertainment"},
+
+  {"query": "election labour conservative party", "category": "politics"},
+  {"query": "prime minister parliament vote", "category": "politics"},
+  {"query": "government tax policy chancellor", "category": "politics"},
+  {"query": "mps bill commons debate", "category": "politics"},
+  {"query": "tory leader michael howard", "category": "politics"},
+  {"query": "blair iraq war", "category": "politics"},
+
+  {"query": "football premiership match goal", "category": "sport"},
+  {"query": "olympic athletes gold medal", "category": "sport"},
+  {"query": "cricket england test series", "category": "sport"},
+  {"query": "tennis grand slam final", "category": "sport"},
+  {"query": "rugby six nations wales", "category": "sport"},
+  {"query": "chelsea arsenal manchester united", "category": "sport"},
+
+  {"query": "mobile phone technology", "category": "tech"},
+  {"query": "internet broadband users online", "category": "tech"},
+  {"query": "video games console", "category": "tech"},
+  {"query": "software virus security spam", "category": "tech"},
+  {"query": "digital music downloads ipod", "category": "tech"},
+  {"query": "microsoft windows computer", "category": "tech"}
+]
